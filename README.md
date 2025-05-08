@@ -1,6 +1,6 @@
 - 👋 Hello! You've reached the github of @FeCardoza
-- I'm an independent industrial automation engineer safely increasing efficiency
-- 📫 Contact me at fecardoza.com/contact
+- I use automation to increase operational efficiency for physical tasks
+- 📫 Contact me at fecardoza.com/contact.html
 
 
 <!---
